@@ -1,5 +1,5 @@
 # 👋🏽 Hey, I'm Dean!
- ####    Tech's my thing – whether it's experimenting with gadgets or hunting down solutions online, count me in. A total sponge for learning new stuff, I can switch gears faster than you can say 'update.' With a passion for innovation and problem-solving, I'm always on the lookout for the next big thing in technology.
+ ####   Tech's my thing – whether it's experimenting with gadgets or hunting down solutions online, count me in. A total sponge for learning new stuff, I can switch gears faster than you can say 'update.' With a passion for innovation and problem-solving, I'm always on the lookout for the next big thing in technology.
 ## 🚀 About Me
 - Enthusiastic individual always striving for the impossible.
 - Lover of parties and good times because life's too short __***NOT***__ to celebrate!
