@@ -16,7 +16,7 @@
 - Ex Technical Assistant in Continuous Improvement department, currently in Process & Equipment Engineering department. 
 ## 🌱 Current Focus
 - Тo start my master's degree.
-- Currently leveling up my skills in cybersecurity and potencially in the sphere of product manager.
+- Currently leveling up my skills in cybersecurity and potencially in management.
 - Understanding more of microelectornics, cybersecurity and others.
 ## 💭 Inspirational Quotes
 - "When the man is fire the woman has to be water."
