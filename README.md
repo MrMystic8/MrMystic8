@@ -6,18 +6,18 @@
 - My spirit animal is the tiger – strong, independent, and always ready to conquer!
 ## 💡 Interests
 - Passionate about football ⚽
-- Going skiing 🎿
+- Skiing 🎿
 - Hiking ⛰️
 - Watching movies 🎬
 - Listening to music 🎵
 ## 💻 Career and Goals
 - I’m always up for a challenge and ready to take on new projects.
 - Future Cybersecurity Specialist, eager to dive deeper into the world of cybersecurity.
-- Currently working as a Technical Assistant in Continuous Improvement department. 
+- Ex Technical Assistant in Continuous Improvement department, currently in Process & Equipment Engineering department. 
 ## 🌱 Current Focus
-- Тo complete my bachelor's degree.
-- Currently leveling up my skills in cybersecurity and exploring new techniques.
-- Understanding more of microelectornics.
+- Тo start my master's degree.
+- Currently leveling up my skills in cybersecurity and potencially in the sphere of product manager.
+- Understanding more of microelectornics, cybersecurity and others.
 ## 💭 Inspirational Quotes
 - "When the man is fire the woman has to be water."
 - "Escape your comfort zone and push your boundaries."
