@@ -10,11 +10,11 @@
   
 - **Bachelor's Degree**  
   Technical University of Sofia  
-            *Specialization in Electronics with a focus on Microelectronics*  
+            -*Specialization in Electronics with a focus on Microelectronics*  
   [TU-Sofia](https://www.tu-sofia.bg/)
   
 - **Master's Degree**  
-  *Incoming*
+  *Incoming...*
 
 ## 💻 Career and Goals
 - I’m always up for a challenge and ready to take on new projects and ideas.
