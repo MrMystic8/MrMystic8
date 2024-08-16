@@ -7,10 +7,12 @@
 ## 📚 Education
 - Private English Language Secondary School - Chelopech  
   [PELSS](https://www.pelss-chelopech.bg/bg/)
+  
 - **Bachelor's Degree**  
   Technical University of Sofia  
-  Specialization in Electronics with a focus on Microelectronics  
+            *Specialization in Electronics with a focus on Microelectronics*  
   [TU-Sofia](https://www.tu-sofia.bg/)
+  
 - **Master's Degree**  
   *Incoming*
 
