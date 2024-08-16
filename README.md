@@ -4,12 +4,18 @@
 - Enthusiastic individual always striving for the impossible.
 - Lover of parties and good times because life's too short.
 - My spirit animal is tiger – strong, independent, and always ready to conquer!
-## 💡 Interests
-- Passionate about football ⚽
-- Skiing 🎿
-- Hiking ⛰️
+## 📚 Education
+- **Private English Language Secondary School**  
+  [Website](https://www.pelss-chelopech.bg/bg/)
+- **Bachelor's Degree**  
+  Technical University of Sofia  
+  Specialization in Electronics with a focus on Microelectronics  
+  [Website](https://www.tu-sofia.bg/)
+- **Master's Degree**  
+  *Incoming*
+
 ## 💻 Career and Goals
-- I’m always up for a challenge and ready to take on new projects.
+- I’m always up for a challenge and ready to take on new projects and ideas.
 - Future Cybersecurity Specialist, eager to dive deeper into the world of cybersecurity.
 - Currently in Process & Equipment Engineering department. 
 ## 🌱 Current Focus
@@ -20,3 +26,7 @@
 - "When the man is fire the woman has to be water."
 - "Escape your comfort zone and push your boundaries."
 - "Everything bad happens for good."
+## 💡 Interests
+- Passionate about football ⚽
+- Skiing and snowboarding 🎿
+- Hiking and enjoying the views ⛰️
