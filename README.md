@@ -5,12 +5,12 @@
 - Lover of parties and good times because life's too short.
 - My spirit animal is tiger – strong, independent, and always ready to conquer!
 ## 📚 Education
-- **Private English Language Secondary School**  
-  [Website](https://www.pelss-chelopech.bg/bg/)
+- Private English Language Secondary School - Chelopech  
+  [PELSS](https://www.pelss-chelopech.bg/bg/)
 - **Bachelor's Degree**  
   Technical University of Sofia  
   Specialization in Electronics with a focus on Microelectronics  
-  [Website](https://www.tu-sofia.bg/)
+  [TU-Sofia](https://www.tu-sofia.bg/)
 - **Master's Degree**  
   *Incoming*
 
