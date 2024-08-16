@@ -15,7 +15,6 @@
   
 - **Master's Degree**  
   *Incoming...*
-
 ## 💻 Career and Goals
 - I’m always up for a challenge and ready to take on new projects and ideas.
 - Future Cybersecurity Specialist, eager to dive deeper into the world of cybersecurity.
