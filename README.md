@@ -47,5 +47,4 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrMystic8&theme=darkhub)
 
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMystic8&layout=compact&theme=dark)
+
