@@ -12,7 +12,7 @@
   
 - **Bachelor's Degree**  
   Technical University of Sofia  
-  *Specialization in Electronics with a focus on Microelectronics*  
+  *Specialty in Electronics with a focus on Microelectronics*  
   [TU-Sofia](https://www.tu-sofia.bg/)
   
 - **Master's Degree**  
