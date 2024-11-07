@@ -16,10 +16,10 @@
   [TU-Sofia](https://www.tu-sofia.bg/)
   
 - **Master's Degree**  
-  *Incoming...
+  *Incoming...*
   Technical University of Sofia  
   *Specialty in Cybersecurity*  
-  [TU-Sofia](https://www.tu-sofia.bg/)*
+  [TU-Sofia](https://www.tu-sofia.bg/)
 
 ## 💻 Career and Goals
 - I’m always up for a challenge and ready to take on new projects and ideas.
