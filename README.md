@@ -17,7 +17,7 @@
   
 - **Master's Degree**  
   *Incoming...*
-  Technical University of Sofia  
+    Technical University of Sofia  
   *Specialty in Cybersecurity*  
   [TU-Sofia](https://www.tu-sofia.bg/)
 
