@@ -17,7 +17,7 @@
   
 - **Master's Degree**  
   Technical University of Sofia  
-  Alt- *Specialty in Cybersecurity*  
+  *Specialty in Cybersecurity*  
   [TU-Sofia](https://www.tu-sofia.bg/)
 
 ## 💻 Career and Goals
