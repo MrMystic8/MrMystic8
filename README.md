@@ -23,7 +23,7 @@
 ## 💻 Career and Goals
 - I’m always up for a challenge and ready to take on new projects and ideas.
 - Future Cybersecurity Specialist, eager to dive deeper into the world of cybersecurity.
-- Currently in Process & Equipment Engineering department.
+- Currently in IT department.
 
 ## 🌱 Current Focus
 - Тo start my Master's degree.
